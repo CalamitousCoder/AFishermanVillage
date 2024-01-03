@@ -1,4 +1,4 @@
-# Arcade-Manager-AMP
+# A-Fisherman-Village
 My current most complex personal project. This program allows the user to play a simple textbased rpg. I’m stil expanding and refining the gameplay
 
 
